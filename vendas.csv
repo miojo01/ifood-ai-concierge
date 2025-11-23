@@ -1,0 +1,11 @@
+data,hora,item,valor,categoria,pagamento
+2025-11-20,18:30,Pizza Calabresa,45.00,Alimentação,Pix
+2025-11-20,19:15,Coca-Cola 2L,12.00,Bebida,Cartão
+2025-11-20,19:45,X-Burger,25.00,Alimentação,Dinheiro
+2025-11-20,20:10,Pizza 4 Queijos,50.00,Alimentação,Pix
+2025-11-21,12:00,Feijoada Média,35.00,Alimentação,Cartão
+2025-11-21,12:30,Guaraná Lata,6.00,Bebida,Cartão
+2025-11-21,13:15,Feijoada Grande,45.00,Alimentação,Pix
+2025-11-22,21:00,Sushi Combo,60.00,Alimentação,Cartão
+2025-11-22,21:30,Sake,20.00,Bebida,Pix
+2025-11-22,22:00,Temaki,22.00,Alimentação,Dinheiro
